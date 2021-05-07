@@ -1,0 +1,20 @@
+body{
+    background-color: salmon;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: center;
+    }
+    .table{
+    color: white;
+    }
+    .title{
+    font-size: 50px;
+    text-transform: uppercase;
+    }
+    @media screen and (max-width: 500px){
+    body{
+    margin: 15px 15px;
+    font-size: 20px;
+    }
+        }
